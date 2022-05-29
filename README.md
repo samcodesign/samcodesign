@@ -10,6 +10,7 @@
 - 👨‍💻 My protfolio is available [here](https://samcodesign.tech)
 
 - 📝 I write articles on [medium](https://medium.com/@samcodesign)
+<img width="300" align="right" src="https://24.media.tumblr.com/03c9505cfe9473d13619cd18a98d90e5/tumblr_n3xetmlDS41qav3uso1_500.gif" alt="Conding Gif"/>
 
 - 📫 How to reach me **contact@samcodesign.tech**
 
