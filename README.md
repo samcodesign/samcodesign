@@ -3,6 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=samcodesign&label=Profile%20views&color=ff4242&style=flat" alt="samcodesign" /> </p>
 
+<img align="right" src="https://wifflegif.com/gifs/497681-recursion-coding-gif" alt="Conding Gif"/>
+
 - 🌱 I’m currently learning **Vue.js & Nuxt**
 
 - 👨‍💻 All of my projects are available at [https://samcodesign.tech](https://samcodesign.tech)
