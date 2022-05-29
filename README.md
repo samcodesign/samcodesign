@@ -3,14 +3,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=samcodesign&label=Profile%20views&color=ff4242&style=flat" alt="samcodesign" /> </p>
 
-<img width="300" align="right" src="https://24.media.tumblr.com/03c9505cfe9473d13619cd18a98d90e5/tumblr_n3xetmlDS41qav3uso1_500.gif" alt="Conding Gif"/>
+<img align="right" src="https://24.media.tumblr.com/03c9505cfe9473d13619cd18a98d90e5/tumblr_n3xetmlDS41qav3uso1_500.gif" alt="Conding Gif"/>
 
 - 🌱 I’m currently learning **Vue.js & Nuxt**
 
 - 👨‍💻 My protfolio is available [here](https://samcodesign.tech)
 
 - 📝 I write articles on [medium](https://medium.com/@samcodesign)
-<img width="300" align="right" src="https://24.media.tumblr.com/03c9505cfe9473d13619cd18a98d90e5/tumblr_n3xetmlDS41qav3uso1_500.gif" alt="Conding Gif"/>
 
 - 📫 How to reach me **contact@samcodesign.tech**
 
