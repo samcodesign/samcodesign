@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=samcodesign&label=Profile%20views&color=ff4242&style=flat" alt="samcodesign" /> </p>
 
-<img align="right" width="300"  src="https://24.media.tumblr.com/03c9505cfe9473d13619cd18a98d90e5/tumblr_n3xetmlDS41qav3uso1_500.gif" alt="Conding Gif"/>
+<p align="right" <img width="300"  src="https://24.media.tumblr.com/03c9505cfe9473d13619cd18a98d90e5/tumblr_n3xetmlDS41qav3uso1_500.gif" alt="Conding Gif"/></p>
 
 - 🌱 I’m currently learning **Vue.js & Nuxt**
 
