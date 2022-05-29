@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Vue.js & Nuxt**
 
-- 👨‍💻 My protfolio is available at [https://samcodesign.tech](https://samcodesign.tech)
+- 👨‍💻 My protfolio is available [here](https://samcodesign.tech)
 
-- 📝 I write articles on [https://medium.com/@samcodesign](https://medium.com/@samcodesign)
+- 📝 I write articles on [medium](https://medium.com/@samcodesign)
 
 - 📫 How to reach me **contact@samcodesign.tech**
 
