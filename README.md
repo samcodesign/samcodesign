@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=samcodesign&label=Profile%20views&color=ff4242&style=flat" alt="samcodesign" /> </p>
 
-<p><a href="https://giphy.com/gifs/cat-matrix-catrix-FcqKy4Kj7XOK0hCW4g"></a></p>
+<iframe src="https://giphy.com/embed/FcqKy4Kj7XOK0hCW4g" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-matrix-catrix-FcqKy4Kj7XOK0hCW4g"></a></p>
 
 - 🌱 I’m currently learning **Vue.js & Nuxt**
 
