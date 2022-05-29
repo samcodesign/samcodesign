@@ -7,13 +7,11 @@
 
 - 🌱 I’m currently learning **Vue.js & Nuxt**
 
-- 👨‍💻 All of my projects are available at [https://samcodesign.tech](https://samcodesign.tech)
+- 👨‍💻 My protfolio is available at [https://samcodesign.tech](https://samcodesign.tech)
 
-- 📝 I regularly write articles on [https://medium.com/@samcodesign](https://medium.com/@samcodesign)
+- 📝 I write articles on [https://medium.com/@samcodesign](https://medium.com/@samcodesign)
 
 - 📫 How to reach me **contact@samcodesign.tech**
-
-- ⚡ Fun fact **I love chocolate**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
