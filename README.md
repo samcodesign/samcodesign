@@ -15,13 +15,13 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Overcome Client &amp; Sales Objections Without Conflict](https://dev.to/samcodesign/overcome-client-sales-objections-without-conflict-477k)
 - [Design thinking vs problem-solving](https://medium.com/@samcodesign/design-thinking-vs-problem-solving-f8134b62ef8f?source=rss-977545ec14bc------2)
 - [Branding Your Business For Success](https://medium.com/@samcodesign/branding-your-business-for-success-cedc2ea99252?source=rss-977545ec14bc------2)
 - [The Benefits of Branding Your Business vs Branding Yourself](https://medium.com/@samcodesign/the-benefits-of-branding-your-business-vs-branding-yourself-140cc70cb2d6?source=rss-977545ec14bc------2)
 - [The Truth About Branding vs Marketing](https://medium.com/@samcodesign/the-truth-about-branding-vs-marketing-c2dae473682?source=rss-977545ec14bc------2)
 - [Overcome Client &amp; Sales Objections Without Conflict](https://medium.com/@samcodesign/overcome-client-sales-objections-without-conflict-312c07c39495?source=rss-977545ec14bc------2)
 - [Phone Number &amp; Email Extractor With Python](https://dev.to/samcodesign/phone-number-email-extractor-with-python-12g2)
-- [Planning process for Middle-sized Projects](https://dev.to/samcodesign/planning-process-for-middle-sized-projects-3o8h)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
