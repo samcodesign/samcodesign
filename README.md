@@ -19,9 +19,9 @@
 - [Can Your Brand Delivery Live Up to the Hype?](https://uxwithsamy.medium.com/can-your-brand-delivery-live-up-to-the-hype-454605004924?source=rss-977545ec14bc------2)
 - [The Psychology of Color How Our brains Perceive and Process Color](https://uxwithsamy.medium.com/the-psychology-of-color-how-our-brains-perceive-and-process-color-f64c3630593b?source=rss-977545ec14bc------2)
 - [7 Ways to Build an Online Presence with Digital Marketing](https://uxwithsamy.medium.com/7-ways-to-build-an-online-presence-with-digital-marketing-588cf5b3cbbd?source=rss-977545ec14bc------2)
-- [Overcome Client &amp; Sales Objections Without Conflict](https://dev.to/samcodesign/overcome-client-sales-objections-without-conflict-477k)
 - [Design thinking vs problem-solving](https://uxwithsamy.medium.com/design-thinking-vs-problem-solving-f8134b62ef8f?source=rss-977545ec14bc------2)
 - [Branding Your Business For Success](https://uxwithsamy.medium.com/branding-your-business-for-success-cedc2ea99252?source=rss-977545ec14bc------2)
+- [The Benefits of Branding Your Business vs Branding Yourself](https://uxwithsamy.medium.com/the-benefits-of-branding-your-business-vs-branding-yourself-140cc70cb2d6?source=rss-977545ec14bc------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
