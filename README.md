@@ -5,13 +5,12 @@
 
 <img align="right" width="350" src="https://24.media.tumblr.com/03c9505cfe9473d13619cd18a98d90e5/tumblr_n3xetmlDS41qav3uso1_500.gif" alt="Conding Gif"/>
 
-- 🌱 I’m currently learning **Vue.js & Nuxt**
+- 🌱 I’m currently learning **Psychology**
 
-- 👨‍💻 My protfolio is available [here](https://samcodesign.tech)
+- 👨‍💻 My protfolio is available [here](https://uxwithsam.webflow.io)
 
 - 📝 I write articles on [medium](https://medium.com/@samcodesign)
 
-- 📫 How to reach me **contact@samcodesign.tech**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
