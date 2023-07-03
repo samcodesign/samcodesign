@@ -10,7 +10,9 @@ jobs:
         runs-on: ubuntu-latest
         steps: 
             - uses: actions/checkout@v2
+            - name: Blog Post Workflow
             - uses: gautamkrishnar/blog-post-workflow@1.8.4
+
               with: 
                 max_post_count: "7"
                 feed_list: "https://dev.to/feed/samcodesign, https://medium.com/feed/@uxwithsamy"
