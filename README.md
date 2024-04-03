@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Psychology**
 
-- 👨‍💻 My protfolio is available [here](https://uxwithsam.webflow.io)
+- 👨‍💻 My portfolio is available [here](https://productwithsam.framer.website/)
 
 - 📝 I write articles on [medium](https://medium.com/@samcodesign)
 
