@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Stockabble<br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about GO or Product Strategy<br>⚡ Fun fact 6y of experience in product and Strategy not in DEV
+🔭 I’m currently working on Sehapracto<br>💬 Ask me about GO or Product Strategy<br>⚡ Fun fact 6y of experience in product and Strategy not in DEV
 
 
 ## 🌐 Socials:
