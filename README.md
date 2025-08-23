@@ -31,7 +31,7 @@ Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,nodejs,express,postgresql,c,python,go,mysql,aws,azure,gcp,nestjs,tailwind,git,github,vscode,postman,figma&perline=5" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,nodejs,express,postgresql,c,python,go,vercel,supabase,mysql,aws,azure,gcp,nestjs,tailwind,prettier,fastapi,git,github,vscode,nvim,bash,postman,figma&perline=5" />
   </a>
 </p>
 
