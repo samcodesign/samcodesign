@@ -41,8 +41,8 @@ GitHub Stats
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=samcodesign&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="[Your Name]'s GitHub Stats" />
+  <a href="https://githubcard.com">
+    <img align="center" src="https://githubcard.com/api?username=samcodesign&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt=" GitHub Stats" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samcodesign&layout=compact&theme=radical&hide_border=true" />
