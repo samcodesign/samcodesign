@@ -1,17 +1,1 @@
-name: Latest blog post workflow
-on: 
-    schedule:
-        - cron: '0 * * * *'
-    workflow_dispatch:
 
-jobs: 
-    update-readme-with-blog: 
-        name: Update this repo's README with latest blog posts
-        runs-on: ubuntu-latest
-        steps: 
-            - name: Blog Post Workflow
-            - uses: gautamkrishnar/blog-post-workflow@1.8.4
-
-              with: 
-                max_post_count: "7"
-                feed_list: "https://dev.to/feed/samcodesign, https://medium.com/feed/@uxwithsamy"
